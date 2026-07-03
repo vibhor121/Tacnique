@@ -71,6 +71,12 @@ npm run build
 npm run test
 ```
 
+## Live demo
+
+You can view a deployed demo of this app at:
+
+- https://tacnique-app.netlify.app/
+
 ## Key Files
 
 - `src/App.tsx` — Main UI structure and app state
